@@ -1,6 +1,6 @@
 # frogger
 Frogger video game for a Raspberry Pico and a matching WaveShare HAT Screen
-<img width="1239" height="897" alt="game-in-play-cropped" src="https://github.com/user-attachments/assets/dc8f2adb-7e61-4f19-a756-3b4784d07df2" />
+<img width="413" height="299" alt="game-in-play-cropped" src="https://github.com/user-attachments/assets/dc8f2adb-7e61-4f19-a756-3b4784d07df2" />
 
 Hardware Requirements:
 1. Raspberry Pi Pico (rp2040) or equivalent (e.g., rp2350 also works, but you change the .ini file).
