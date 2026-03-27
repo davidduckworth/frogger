@@ -6,7 +6,7 @@ Frogger video game for a Raspberry Pico and a matching WaveShare HAT Screen
 
 Hardware Requirements:
 1. Raspberry Pi Pico (rp2040) or equivalent (e.g., rp2350 also works, but you change the .ini file).
-2. Waveshare HAT display with joystick and buttons (e.g., https://www.amazon.com/waveshare-1-3-inch-LCD-Pico/dp/B092VVCBQP).
+2. Waveshare 1.3inch/65k-color HAT display with joystick and buttons (e.g., https://www.amazon.com/waveshare-1-3-inch-LCD-Pico/dp/B092VVCBQP).
 
 Software Requirements:
 VSCode, PlatformIO, c++
