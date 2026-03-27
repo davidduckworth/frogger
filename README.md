@@ -12,6 +12,6 @@ Software Requirements:
 VSCode, PlatformIO, c++
  
 Notes:
-This game was first developed by my then-15yo nephew on Kahn Academy Processing JS (https://www.khanacademy.org/computer-programming/uncle-davids-frogger-oop/5254551307862016), which sports a 400x400 canvas. The HAT is only 240x240, so the screen drifts into focus as the frog moves. The library was downloaded from WaveShare's website, and placed into the project as a local project library, to simlify development. The ported code ran too slow, so I made the movements skip ahead two for every one move, tripling the speed and adding some jerkiness. 
+This game was first developed by my then-15yo nephew on Kahn Academy Processing JS (https://www.khanacademy.org/computer-programming/uncle-davids-frogger-oop/5254551307862016), which sports a 400x400 canvas. The HAT is only 240x240, so the screen drifts into focus as the frog moves. The library was downloaded from WaveShare's website, and placed into the project as a local project library, to simplify development. The ported code ran too slow, so I made the movements skip ahead two for every one move, tripling the speed and adding some jerkiness. 
 
 Future work might include getting it up to speed without jerking, and including even more (Kahn Academy) games (especially for the rp2350, which has more memory).
